@@ -18,7 +18,7 @@ no_btn.addEventListener('click', () => {
 yes_btn.addEventListener('click', () => {
     container.innerHTML = `<h2>
                             
-                            Unos buenos besos te vas a llevar <br>
+                            Unos buenos besos <br> te vas a llevar 
                             🥵🥵🥵
                             </h2>`
 })
